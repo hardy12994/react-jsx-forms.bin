@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.b9ff7982.chunk.css",
-  "main.js": "/static/js/main.fb5bd525.chunk.js",
-  "main.js.map": "/static/js/main.fb5bd525.chunk.js.map",
-  "static/js/1.814694c0.chunk.js": "/static/js/1.814694c0.chunk.js",
-  "static/js/1.814694c0.chunk.js.map": "/static/js/1.814694c0.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.b9ff7982.chunk.css.map": "/static/css/main.b9ff7982.chunk.css.map",
-  "static/media/git.png": "/static/media/git.cefc2023.png",
-  "static/media/npm.png": "/static/media/npm.cedf6c0b.png",
-  "index.html": "/index.html",
-  "precache-manifest.72dcc012488828daacbeb933819de124.js": "/precache-manifest.72dcc012488828daacbeb933819de124.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/react-jsx-forms.bin/static/css/main.d8c65b48.chunk.css",
+  "main.js": "/react-jsx-forms.bin/static/js/main.7e0c5589.chunk.js",
+  "main.js.map": "/react-jsx-forms.bin/static/js/main.7e0c5589.chunk.js.map",
+  "static/js/1.6c21efdd.chunk.js": "/react-jsx-forms.bin/static/js/1.6c21efdd.chunk.js",
+  "static/js/1.6c21efdd.chunk.js.map": "/react-jsx-forms.bin/static/js/1.6c21efdd.chunk.js.map",
+  "runtime~main.js": "/react-jsx-forms.bin/static/js/runtime~main.9914a772.js",
+  "runtime~main.js.map": "/react-jsx-forms.bin/static/js/runtime~main.9914a772.js.map",
+  "static/media/git.png": "/react-jsx-forms.bin/static/media/git.cefc2023.png",
+  "static/media/npm.png": "/react-jsx-forms.bin/static/media/npm.cedf6c0b.png",
+  "static/css/main.d8c65b48.chunk.css.map": "/react-jsx-forms.bin/static/css/main.d8c65b48.chunk.css.map",
+  "index.html": "/react-jsx-forms.bin/index.html",
+  "precache-manifest.c3097f000dc53400b0854c15ac6c0709.js": "/react-jsx-forms.bin/precache-manifest.c3097f000dc53400b0854c15ac6c0709.js",
+  "service-worker.js": "/react-jsx-forms.bin/service-worker.js"
 }
